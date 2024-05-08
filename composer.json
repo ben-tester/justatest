@@ -1,0 +1,11 @@
+{
+    "name": "ntrm/justatest",
+    "type": "project",
+    "description":"Description",
+    "authors": [
+        {
+            "name": "ntrm"
+        }
+    ],
+    "require": {}
+}
