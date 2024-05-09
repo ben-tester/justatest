@@ -7,8 +7,5 @@
             "name": "ntrm"
         }
     ],
-    "require": {},
-    "repositories":[
-        {"type":"vcs","url":"https://546c-212-186-86-234.ngrok-free.app"}
-    ]
+    "require": {}
 }
